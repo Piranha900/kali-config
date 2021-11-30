@@ -3,9 +3,19 @@ Monospace Regular 12
 Background: #211F25
 
 Custom Tango: 
+1: #2E3436
+2: #CC0000
+3: #4E9A06
 Orange: #FF7B00
 Light Blue: #1777F3
-Blue: #0052A9
 Light Pink: #DA00FF
+7: #06989A
+8: #D3D7CF
+9: #555753
+10: #EF2929
+11: #8AE234
+12: #FCE94F
+Blue: #0052A9
 Pink: #8C2F82
-
+15: #34E2E2
+16: #EEEEEC
